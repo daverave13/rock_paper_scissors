@@ -1,0 +1,9 @@
+.humanInputWrapper {
+    text-align: center;
+}
+
+.humanInput {
+    display: flex;
+    flex-direction: column;
+    margin: 0 40% 0 40%;
+}
